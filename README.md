@@ -50,7 +50,7 @@ I’m **Tuna Tezcan**, a Computer Engineering student at İzmir Institute of Tec
 ## 📫 Contact & Let’s Connect  
 - **LinkedIn:** [linkedin.com/in/tuna-tezcan-3944b21b3](https://www.linkedin.com/in/tuna-tezcan-3944b21b3/)  
 - **Email:** tuna.tezcannn@gmail.com  
-- **GitHub:** [github.com/tunatezcan](https://github.com/tunatezcannn)  
+- **GitHub:** [github.com/tunatezcannn](https://github.com/tunatezcannn)  
 
 ---
 
