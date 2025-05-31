@@ -55,4 +55,4 @@ I’m **Tuna Tezcan**, a Computer Engineering student at İzmir Institute of Tec
 ---
 
 ## 🌟 GitHub Stats  
-![Tuna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunatezcann&show_icons=true&theme=radical)  
+![Tuna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunatezcannn&show_icons=true&theme=radical)  
